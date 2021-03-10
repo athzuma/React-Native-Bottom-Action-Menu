@@ -1,0 +1,36 @@
+{
+  "name": "react-native-bottom-action-menu",
+  "version": "0.1.0",
+  "description": "Animated bottom action menu for react native",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athzuma/React-Native-Bottom-Action-Menu.git"
+  },
+  "keywords": [
+    "animated",
+    "bottom",
+    "action",
+    "menu",
+    "react",
+    "native"
+  ],
+  "author": "Athila Zuma <athzuma@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/athzuma/React-Native-Bottom-Action-Menu/issues"
+  },
+  "homepage": "https://github.com/athzuma/React-Native-Bottom-Action-Menu#readme",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+      "@types/react-native": "*",
+      "@types/react": "*",
+      "react": "16.3.1",
+      "react-native": "0.55.4"
+  }
+}
