@@ -1,1 +1,1 @@
-export { default } from "./bottomactionmenu";
+export * from './bottomactionmenu';
