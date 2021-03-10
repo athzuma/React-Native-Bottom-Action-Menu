@@ -27,6 +27,7 @@ export class BottomMenu extends React.Component {
         velocity: 1,
         tension: 2,
         friction: 8,
+        useNativeDriver: true
       }
     ).start();
   }
@@ -39,6 +40,7 @@ export class BottomMenu extends React.Component {
         velocity: 1,
         tension: 2,
         friction: 8,
+        useNativeDriver: true
       }
     ).start();
   }

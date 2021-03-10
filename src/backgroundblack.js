@@ -22,6 +22,7 @@ export class AnimatedBackgroundBlack extends React.Component {
       {
         toValue: 1,
         duration: 800,
+        useNativeDriver: true
       }
     ).start();
   }
@@ -34,6 +35,7 @@ export class AnimatedBackgroundBlack extends React.Component {
         {
           toValue: 0,
           duration: 800,
+          useNativeDriver: true
         }
       ).start(() => {
         this.setState({
