@@ -1,6 +1,7 @@
 # React Native Bottom Action Menu
  Animated bottom action menu for react native
- <img src="https://i.ibb.co/5FTMCrN/IMG-8983.png" width="512px" />
+ <img src="https://bancodev.s3-sa-east-1.amazonaws.com/RPReplay-Final1615359304.gif">
+ <img src="https://bancodev.s3-sa-east-1.amazonaws.com/IMG-8983.PNG" />
 
  ## Install
 
@@ -109,7 +110,7 @@
  ```
 
 ## Real-world examples
-
+<img src="https://bancodev.s3-sa-east-1.amazonaws.com/IMG-8986.PNG" />
 
 ## Credits
 Written by Athila Zuma
