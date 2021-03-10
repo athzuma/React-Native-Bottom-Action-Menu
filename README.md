@@ -1,13 +1,41 @@
 # React Native Bottom Action Menu
  Animated bottom action menu for react native
+ <img src="https://i.ibb.co/5FTMCrN/IMG-8983.png" width="512px" />
 
  ## Install
 
- `npm i react-native-bottom-action-menu`
+ `$ npm i react-native-bottom-action-menu`
+
+ or
+
+ `$ yarn add react-native-bottom-action-menu`
 
  ## Usage
 
  Example of use
+
+ ```jsx
+ import BottomActionMenu from 'react-native-bottom-action-menu';
+
+ //...
+
+ //To open
+ this.bottomActionMenu.show();
+
+ //To close
+ this.bottomActionMenu.close();
+
+ //...
+
+ <BottomActionMenu
+   ref={bottomActionMenu => {this.bottomActionMenu = bottomActionMenu}}
+   onClose={() => { console.log("Closed") }}
+ >
+   {...}
+ </BottomActionMenu>
+ ```
+
+ Complete example
 
  ```jsx
  import React from 'react';
@@ -79,3 +107,9 @@
    }
  });
  ```
+
+## Real-world examples
+
+
+## Credits
+Written by Athila Zuma

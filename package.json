@@ -16,7 +16,8 @@
     "action",
     "menu",
     "react",
-    "native"
+    "native",
+    "modal"
   ],
   "author": "Athila Zuma <athzuma@gmail.com>",
   "license": "MIT",
