@@ -1,1 +1,1 @@
-export * from './bottomactionmenu';
+export BottomActionMenu from './bottomactionmenu';

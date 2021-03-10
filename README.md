@@ -10,7 +10,7 @@
  Example of use
 
  ```jsx
- import { BottomActionMenu } from 'react-native-bottom-action-menu';
+ import BottomActionMenu from 'react-native-bottom-action-menu';
 
  //...
 

@@ -4,7 +4,7 @@ import { BottomMenu } from './bottommenu';
 import { AnimatedBackgroundBlack } from './backgroundblack';
 
 
-export class BottomActionMenu extends React.Component {
+export default class BottomActionMenu extends React.Component {
   constructor(props){
     super(props);
 
