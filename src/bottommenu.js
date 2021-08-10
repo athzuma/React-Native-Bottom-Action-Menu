@@ -63,7 +63,7 @@ export class BottomMenu extends React.Component {
               <Ionicons name="md-close" size={20} color="#333" />
             </TouchableOpacity>
           </View>
-          <View style={{ height: 40 }}/>
+          <View style={{ height: 20 }}/>
           {children}
         </View>
       </Animated.View>
